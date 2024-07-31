@@ -1,0 +1,578 @@
+C:\Users\G201\Downloads\02_03_01_P_CSV.zip
+C:\Users\G201\Downloads\10장_로그인.pdf
+C:\Users\G201\Downloads\11장_공공API사용하기.pdf
+C:\Users\G201\Downloads\12장_API서버만들기.pdf
+C:\Users\G201\Downloads\1장_AWS 기본사용법.pdf
+C:\Users\G201\Downloads\1장_ChatGPT란.pdf
+C:\Users\G201\Downloads\20240205-박선정-4.psd
+C:\Users\G201\Downloads\240202-안녕맨.prproj
+C:\Users\G201\Downloads\2장_ChatGPT API 시작하기.pdf
+C:\Users\G201\Downloads\2장_EC2 윈도우서버 구축하기.pdf
+C:\Users\G201\Downloads\3DP_Chip_v2404.exe
+C:\Users\G201\Downloads\3장_ChatGPT API 활용하기.pdf
+C:\Users\G201\Downloads\3장_서비스 배포하기.pdf
+C:\Users\G201\Downloads\4장_배포 자동화 (1).pdf
+C:\Users\G201\Downloads\4장_배포 자동화.pdf
+C:\Users\G201\Downloads\552.22-desktop-win10-win11-64bit-international-dch-whql.exe
+C:\Users\G201\Downloads\a1234.pem
+C:\Users\G201\Downloads\aa.pem
+C:\Users\G201\Downloads\adksetup.exe
+C:\Users\G201\Downloads\adkwinpesetup.exe
+C:\Users\G201\Downloads\ALCapture314.exe
+C:\Users\G201\Downloads\apples-2788599_1280.jpg
+C:\Users\G201\Downloads\dbeaver-ce-24.1.0-x86_64-setup.exe
+C:\Users\G201\Downloads\demo (1).zip
+C:\Users\G201\Downloads\demo (2).zip
+C:\Users\G201\Downloads\demo (3).zip
+C:\Users\G201\Downloads\demo.zip
+C:\Users\G201\Downloads\desktop.ini
+C:\Users\G201\Downloads\eclipse-inst-jre-win64.exe
+C:\Users\G201\Downloads\first_1\.vscode\settings.json
+C:\Users\G201\Downloads\first_1\bin\App.class
+C:\Users\G201\Downloads\first_1\bin\array\array_1.class
+C:\Users\G201\Downloads\first_1\bin\array\array_2.class
+C:\Users\G201\Downloads\first_1\bin\array\array_3.class
+C:\Users\G201\Downloads\first_1\bin\array\array_4.class
+C:\Users\G201\Downloads\first_1\bin\array\array_5.class
+C:\Users\G201\Downloads\first_1\bin\background.class
+C:\Users\G201\Downloads\first_1\bin\byte_1.class
+C:\Users\G201\Downloads\first_1\bin\Calc.class
+C:\Users\G201\Downloads\first_1\bin\calculator1.class
+C:\Users\G201\Downloads\first_1\bin\character_1.class
+C:\Users\G201\Downloads\first_1\bin\condition.class
+C:\Users\G201\Downloads\first_1\bin\day9\review_1.class
+C:\Users\G201\Downloads\first_1\bin\example_1.class
+C:\Users\G201\Downloads\first_1\bin\example_2.class
+C:\Users\G201\Downloads\first_1\bin\for\for_1.class
+C:\Users\G201\Downloads\first_1\bin\for\for_10.class
+C:\Users\G201\Downloads\first_1\bin\for\for_2.class
+C:\Users\G201\Downloads\first_1\bin\for\for_3.class
+C:\Users\G201\Downloads\first_1\bin\for\for_4.class
+C:\Users\G201\Downloads\first_1\bin\for\for_5.class
+C:\Users\G201\Downloads\first_1\bin\for\for_6.class
+C:\Users\G201\Downloads\first_1\bin\for\for_7.class
+C:\Users\G201\Downloads\first_1\bin\for\for_8.class
+C:\Users\G201\Downloads\first_1\bin\for\for_9.class
+C:\Users\G201\Downloads\first_1\bin\if\if_1.class
+C:\Users\G201\Downloads\first_1\bin\if\if_2.class
+C:\Users\G201\Downloads\first_1\bin\if\if_3.class
+C:\Users\G201\Downloads\first_1\bin\if\if_4.class
+C:\Users\G201\Downloads\first_1\bin\if\if_5.class
+C:\Users\G201\Downloads\first_1\bin\if\if_6.class
+C:\Users\G201\Downloads\first_1\bin\if\if_7.class
+C:\Users\G201\Downloads\first_1\bin\review_1.class
+C:\Users\G201\Downloads\first_1\bin\scanner\Scanner.class
+C:\Users\G201\Downloads\first_1\bin\scanner\scanner_1.class
+C:\Users\G201\Downloads\first_1\bin\scanner\scanner_2.class
+C:\Users\G201\Downloads\first_1\bin\string_1.class
+C:\Users\G201\Downloads\first_1\bin\switch\switch_1.class
+C:\Users\G201\Downloads\first_1\bin\switch\switch_2.class
+C:\Users\G201\Downloads\first_1\bin\while\while_1.class
+C:\Users\G201\Downloads\first_1\bin\while\while_2.class
+C:\Users\G201\Downloads\first_1\bin\while\while_3.class
+C:\Users\G201\Downloads\first_1\bin\while\while_4.class
+C:\Users\G201\Downloads\first_1\bin\while\while_5.class
+C:\Users\G201\Downloads\first_1\bin\while\while_6.class
+C:\Users\G201\Downloads\first_1\README.md
+C:\Users\G201\Downloads\first_1\src\App.java
+C:\Users\G201\Downloads\first_1\src\array\array_1.java
+C:\Users\G201\Downloads\first_1\src\array\array_2.java
+C:\Users\G201\Downloads\first_1\src\array\array_3.java
+C:\Users\G201\Downloads\first_1\src\array\array_4.java
+C:\Users\G201\Downloads\first_1\src\array\array_5.java
+C:\Users\G201\Downloads\first_1\src\background.java
+C:\Users\G201\Downloads\first_1\src\byte_1.java
+C:\Users\G201\Downloads\first_1\src\Calc.java
+C:\Users\G201\Downloads\first_1\src\character_1.java
+C:\Users\G201\Downloads\first_1\src\condition.java
+C:\Users\G201\Downloads\first_1\src\day9\review_1.java
+C:\Users\G201\Downloads\first_1\src\example_1.java
+C:\Users\G201\Downloads\first_1\src\example_2.java
+C:\Users\G201\Downloads\first_1\src\for\for_1.java
+C:\Users\G201\Downloads\first_1\src\for\for_10.java
+C:\Users\G201\Downloads\first_1\src\for\for_2.java
+C:\Users\G201\Downloads\first_1\src\for\for_3.java
+C:\Users\G201\Downloads\first_1\src\for\for_4.java
+C:\Users\G201\Downloads\first_1\src\for\for_5.java
+C:\Users\G201\Downloads\first_1\src\for\for_6.java
+C:\Users\G201\Downloads\first_1\src\for\for_7.java
+C:\Users\G201\Downloads\first_1\src\for\for_8.java
+C:\Users\G201\Downloads\first_1\src\for\for_9.java
+C:\Users\G201\Downloads\first_1\src\if\if_1.java
+C:\Users\G201\Downloads\first_1\src\if\if_2.java
+C:\Users\G201\Downloads\first_1\src\if\if_3.java
+C:\Users\G201\Downloads\first_1\src\if\if_4.java
+C:\Users\G201\Downloads\first_1\src\if\if_5.java
+C:\Users\G201\Downloads\first_1\src\if\if_6.java
+C:\Users\G201\Downloads\first_1\src\if\if_7.java
+C:\Users\G201\Downloads\first_1\src\review_1.java
+C:\Users\G201\Downloads\first_1\src\scanner\Scanner.java
+C:\Users\G201\Downloads\first_1\src\scanner\scanner_1.java
+C:\Users\G201\Downloads\first_1\src\scanner\scanner_2.java
+C:\Users\G201\Downloads\first_1\src\string_1.java
+C:\Users\G201\Downloads\first_1\src\switch\switch_1.java
+C:\Users\G201\Downloads\first_1\src\switch\switch_2.java
+C:\Users\G201\Downloads\first_1\src\while\while_1.java
+C:\Users\G201\Downloads\first_1\src\while\while_2.java
+C:\Users\G201\Downloads\first_1\src\while\while_3.java
+C:\Users\G201\Downloads\first_1\src\while\while_4.java
+C:\Users\G201\Downloads\first_1\src\while\while_5.java
+C:\Users\G201\Downloads\first_1\src\while\while_6.java
+C:\Users\G201\Downloads\Git-2.43.0-64-bit.exe
+C:\Users\G201\Downloads\Git-2.45.2-64-bit.exe
+C:\Users\G201\Downloads\GTQ 수업자료.zip
+C:\Users\G201\Downloads\ideaIC-2024.1.3.exe
+C:\Users\G201\Downloads\jdk-17.0.11_windows-x64_bin.exe
+C:\Users\G201\Downloads\jdk-17_windows-x64_bin (1).exe
+C:\Users\G201\Downloads\jdk-17_windows-x64_bin.exe
+C:\Users\G201\Downloads\jenkins.msi
+C:\Users\G201\Downloads\kakaopay_결제수단로고.zip
+C:\Users\G201\Downloads\KakaoTalk_Setup.exe
+C:\Users\G201\Downloads\mariadb-11.4.2-winx64.msi
+C:\Users\G201\Downloads\NEO\AUTORUN.INF
+C:\Users\G201\Downloads\NEO\Install\cab1.cab
+C:\Users\G201\Downloads\NEO\Install\cab10.cab
+C:\Users\G201\Downloads\NEO\Install\cab11.cab
+C:\Users\G201\Downloads\NEO\Install\cab12.cab
+C:\Users\G201\Downloads\NEO\Install\cab13.cab
+C:\Users\G201\Downloads\NEO\Install\cab14.cab
+C:\Users\G201\Downloads\NEO\Install\cab2.cab
+C:\Users\G201\Downloads\NEO\Install\cab3.cab
+C:\Users\G201\Downloads\NEO\Install\cab4.cab
+C:\Users\G201\Downloads\NEO\Install\cab5.cab
+C:\Users\G201\Downloads\NEO\Install\cab6.cab
+C:\Users\G201\Downloads\NEO\Install\cab7.cab
+C:\Users\G201\Downloads\NEO\Install\cab8.cab
+C:\Users\G201\Downloads\NEO\Install\cab9.cab
+C:\Users\G201\Downloads\NEO\Install\dotnetfx35.exe
+C:\Users\G201\Downloads\NEO\Install\dotNetFx40_Full_x86_x64.exe
+C:\Users\G201\Downloads\NEO\Install\Hwp96.msi
+C:\Users\G201\Downloads\NEO\Install\InstallerConfig.ini
+C:\Users\G201\Downloads\NEO\Install\Setup.exe
+C:\Users\G201\Downloads\NEO\Install\vcredist_x86.exe
+C:\Users\G201\Downloads\NEO\Install\WindowsInstaller-KB884016-v2-x86.exe
+C:\Users\G201\Downloads\NEO\Install.exe
+C:\Users\G201\Downloads\node-v20.15.0-x64.msi
+C:\Users\G201\Downloads\OBS-Studio-30.0.2-Full-Installer-x64.exe
+C:\Users\G201\Downloads\passport-2714675_1280.jpg
+C:\Users\G201\Downloads\pngwing.com.png
+C:\Users\G201\Downloads\Postman-win64-Setup.exe
+C:\Users\G201\Downloads\SpoqaHanSansNeo_OTF_original\LICENSE
+C:\Users\G201\Downloads\SpoqaHanSansNeo_OTF_original\SpoqaHanSansNeo-Bold.otf
+C:\Users\G201\Downloads\SpoqaHanSansNeo_OTF_original\SpoqaHanSansNeo-Light.otf
+C:\Users\G201\Downloads\SpoqaHanSansNeo_OTF_original\SpoqaHanSansNeo-Medium.otf
+C:\Users\G201\Downloads\SpoqaHanSansNeo_OTF_original\SpoqaHanSansNeo-Regular.otf
+C:\Users\G201\Downloads\SpoqaHanSansNeo_OTF_original\SpoqaHanSansNeo-Thin.otf
+C:\Users\G201\Downloads\test.zip
+C:\Users\G201\Downloads\Test6.zip
+C:\Users\G201\Downloads\v1.openapi.json
+C:\Users\G201\Downloads\Vrew-Installer-1.13.2.exe
+C:\Users\G201\Downloads\VSCodeUserSetup-x64-1.86.2.exe
+C:\Users\G201\Downloads\VSCodeUserSetup-x64-1.90.1.exe
+C:\Users\G201\Downloads\[2024]산대특+풀스택+과정+브로셔_ver.2.pdf
+C:\Users\G201\Downloads\_pds_2023_315-5956.zip
+C:\Users\G201\Downloads\★GTQ 포토샵 1급 교제 소스 (1).zip
+C:\Users\G201\Downloads\★GTQ 포토샵 1급 교제 소스 (2).zip
+C:\Users\G201\Downloads\★GTQ 포토샵 1급 교제 소스 (3).zip
+C:\Users\G201\Downloads\★GTQ 포토샵 1급 교제 소스.zip
+C:\Users\G201\Downloads\그래픽 수업 자료 (1).zip
+C:\Users\G201\Downloads\그래픽 수업 자료.zip
+C:\Users\G201\Downloads\글꼴\Cafe24Dangdanghae-v2.0\Cafe24Dangdanghae-v2.0.otf
+C:\Users\G201\Downloads\글꼴\Cafe24Dangdanghae-v2.0\Cafe24Dangdanghae-v2.0.ttf
+C:\Users\G201\Downloads\글꼴\Cafe24Dangdanghae-v2.0\License-Dangdanghae.pdf
+C:\Users\G201\Downloads\글꼴\Cafe24Dangdanghae-v2.0\webfont\Cafe24Dangdanghae-v2.0.woff
+C:\Users\G201\Downloads\글꼴\Cafe24Dangdanghae-v2.0\webfont\Cafe24Dangdanghae-v2.0.woff2
+C:\Users\G201\Downloads\글꼴\Cafe24Dangdanghae-v2.0.zip
+C:\Users\G201\Downloads\글꼴\Cafe24Danjunghae-v2.0\Cafe24Danjunghae-v2.0.otf
+C:\Users\G201\Downloads\글꼴\Cafe24Danjunghae-v2.0\Cafe24Danjunghae-v2.0.ttf
+C:\Users\G201\Downloads\글꼴\Cafe24Danjunghae-v2.0\License-Danjunghae.pdf
+C:\Users\G201\Downloads\글꼴\Cafe24Danjunghae-v2.0\webfont\Cafe24Danjunghae-v2.0.woff
+C:\Users\G201\Downloads\글꼴\Cafe24Danjunghae-v2.0\webfont\Cafe24Danjunghae-v2.0.woff2
+C:\Users\G201\Downloads\글꼴\Cafe24Danjunghae-v2.0.zip
+C:\Users\G201\Downloads\글꼴\Cafe24Dongdong-v2.0\Cafe24Dongdong-v2.0.otf
+C:\Users\G201\Downloads\글꼴\Cafe24Dongdong-v2.0\Cafe24Dongdong-v2.0.ttf
+C:\Users\G201\Downloads\글꼴\Cafe24Dongdong-v2.0\License-Dongdong.pdf
+C:\Users\G201\Downloads\글꼴\Cafe24Dongdong-v2.0\webfont\Cafe24Dongdong-v2.0.woff
+C:\Users\G201\Downloads\글꼴\Cafe24Dongdong-v2.0\webfont\Cafe24Dongdong-v2.0.woff2
+C:\Users\G201\Downloads\글꼴\Cafe24Dongdong-v2.0.zip
+C:\Users\G201\Downloads\글꼴\Cafe24Ohsquare-v2.0\Cafe24Ohsquare-v2.0.otf
+C:\Users\G201\Downloads\글꼴\Cafe24Ohsquare-v2.0\Cafe24Ohsquare-v2.0.ttf
+C:\Users\G201\Downloads\글꼴\Cafe24Ohsquare-v2.0\License-Ohsquare.pdf
+C:\Users\G201\Downloads\글꼴\Cafe24Ohsquare-v2.0\webfont\Cafe24Ohsquare-v2.0.woff
+C:\Users\G201\Downloads\글꼴\Cafe24Ohsquare-v2.0\webfont\Cafe24Ohsquare-v2.0.woff2
+C:\Users\G201\Downloads\글꼴\Cafe24Ohsquare-v2.0.zip
+C:\Users\G201\Downloads\글꼴\Cafe24OhsquareAir-v2.0\Cafe24OhsquareAir-v2.0.otf
+C:\Users\G201\Downloads\글꼴\Cafe24OhsquareAir-v2.0\Cafe24OhsquareAir-v2.0.ttf
+C:\Users\G201\Downloads\글꼴\Cafe24OhsquareAir-v2.0\License-OhsquareAir.pdf
+C:\Users\G201\Downloads\글꼴\Cafe24OhsquareAir-v2.0\webfont\Cafe24OhsquareAir-v2.0.woff
+C:\Users\G201\Downloads\글꼴\Cafe24OhsquareAir-v2.0\webfont\Cafe24OhsquareAir-v2.0.woff2
+C:\Users\G201\Downloads\글꼴\Cafe24OhsquareAir-v2.0.zip
+C:\Users\G201\Downloads\글꼴\Cafe24Oneprettynight-v2.0\Cafe24Oneprettynight-v2.0.otf
+C:\Users\G201\Downloads\글꼴\Cafe24Oneprettynight-v2.0\Cafe24Oneprettynight-v2.0.ttf
+C:\Users\G201\Downloads\글꼴\Cafe24Oneprettynight-v2.0\License-Oneprettynight.pdf
+C:\Users\G201\Downloads\글꼴\Cafe24Oneprettynight-v2.0\webfont\Cafe24Oneprettynight-v2.0.woff
+C:\Users\G201\Downloads\글꼴\Cafe24Oneprettynight-v2.0\webfont\Cafe24Oneprettynight-v2.0.woff2
+C:\Users\G201\Downloads\글꼴\Cafe24Oneprettynight-v2.0.zip
+C:\Users\G201\Downloads\글꼴\Cafe24Shiningstar-v2.0\Cafe24Shiningstar-v2.0.otf
+C:\Users\G201\Downloads\글꼴\Cafe24Shiningstar-v2.0\Cafe24Shiningstar-v2.0.ttf
+C:\Users\G201\Downloads\글꼴\Cafe24Shiningstar-v2.0\License-Shiningstar.pdf
+C:\Users\G201\Downloads\글꼴\Cafe24Shiningstar-v2.0\webfont\Cafe24Shiningstar-v2.0.woff
+C:\Users\G201\Downloads\글꼴\Cafe24Shiningstar-v2.0\webfont\Cafe24Shiningstar-v2.0.woff2
+C:\Users\G201\Downloads\글꼴\Cafe24Shiningstar-v2.0.zip
+C:\Users\G201\Downloads\글꼴\Cafe24Simplehae-v2.0\Cafe24Simplehae-v2.0.otf
+C:\Users\G201\Downloads\글꼴\Cafe24Simplehae-v2.0\Cafe24Simplehae-v2.0.ttf
+C:\Users\G201\Downloads\글꼴\Cafe24Simplehae-v2.0\License-Simplehae.pdf
+C:\Users\G201\Downloads\글꼴\Cafe24Simplehae-v2.0\webfont\Cafe24Simplehae-v2.0.woff
+C:\Users\G201\Downloads\글꼴\Cafe24Simplehae-v2.0\webfont\Cafe24Simplehae-v2.0.woff2
+C:\Users\G201\Downloads\글꼴\Cafe24Simplehae-v2.0.zip
+C:\Users\G201\Downloads\글꼴\Cafe24Ssukssuk-v2.0\Cafe24Ssukssuk-v2.0.otf
+C:\Users\G201\Downloads\글꼴\Cafe24Ssukssuk-v2.0\Cafe24Ssukssuk-v2.0.ttf
+C:\Users\G201\Downloads\글꼴\Cafe24Ssukssuk-v2.0\License-Ssukssuk.pdf
+C:\Users\G201\Downloads\글꼴\Cafe24Ssukssuk-v2.0\webfont\Cafe24Ssukssuk-v2.0.woff
+C:\Users\G201\Downloads\글꼴\Cafe24Ssukssuk-v2.0\webfont\Cafe24Ssukssuk-v2.0.woff2
+C:\Users\G201\Downloads\글꼴\Cafe24Ssukssuk-v2.0.zip
+C:\Users\G201\Downloads\글꼴\Cafe24Ssurround-v2.0\Cafe24Ssurround-v2.0.otf
+C:\Users\G201\Downloads\글꼴\Cafe24Ssurround-v2.0\Cafe24Ssurround-v2.0.ttf
+C:\Users\G201\Downloads\글꼴\Cafe24Ssurround-v2.0\License-Ssurround.pdf
+C:\Users\G201\Downloads\글꼴\Cafe24Ssurround-v2.0\webfont\Cafe24Ssurround-v2.0.woff
+C:\Users\G201\Downloads\글꼴\Cafe24Ssurround-v2.0\webfont\Cafe24Ssurround-v2.0.woff2
+C:\Users\G201\Downloads\글꼴\Cafe24Ssurround-v2.0.zip
+C:\Users\G201\Downloads\글꼴\Cafe24SsurroundAir-v1.1\Cafe24SsurroundAir-v1.1.otf
+C:\Users\G201\Downloads\글꼴\Cafe24SsurroundAir-v1.1\Cafe24SsurroundAir-v1.1.ttf
+C:\Users\G201\Downloads\글꼴\Cafe24SsurroundAir-v1.1\License-SsurroundAir.pdf
+C:\Users\G201\Downloads\글꼴\Cafe24SsurroundAir-v1.1\webfont\Cafe24SsurroundAir-v1.1.woff
+C:\Users\G201\Downloads\글꼴\Cafe24SsurroundAir-v1.1\webfont\Cafe24SsurroundAir-v1.1.woff2
+C:\Users\G201\Downloads\글꼴\Cafe24SsurroundAir-v1.1.zip
+C:\Users\G201\Downloads\글꼴\Cafe24Syongsyong-v2.0\Cafe24Syongsyong-v2.0.otf
+C:\Users\G201\Downloads\글꼴\Cafe24Syongsyong-v2.0\Cafe24Syongsyong-v2.0.ttf
+C:\Users\G201\Downloads\글꼴\Cafe24Syongsyong-v2.0\License-Syongsyong.pdf
+C:\Users\G201\Downloads\글꼴\Cafe24Syongsyong-v2.0\webfont\Cafe24Syongsyong-v2.0.woff
+C:\Users\G201\Downloads\글꼴\Cafe24Syongsyong-v2.0\webfont\Cafe24Syongsyong-v2.0.woff2
+C:\Users\G201\Downloads\글꼴\Cafe24Syongsyong-v2.0.zip
+C:\Users\G201\Downloads\글꼴\GmarketSansTTF\GmarketSansTTFBold.ttf
+C:\Users\G201\Downloads\글꼴\GmarketSansTTF\GmarketSansTTFLight.ttf
+C:\Users\G201\Downloads\글꼴\GmarketSansTTF\GmarketSansTTFMedium.ttf
+C:\Users\G201\Downloads\글꼴\GmarketSansTTF.zip
+C:\Users\G201\Downloads\글꼴\Jalnan2\.DS_Store
+C:\Users\G201\Downloads\글꼴\Jalnan2\Jalnan2.otf
+C:\Users\G201\Downloads\글꼴\Jalnan2\Jalnan2TTF.ttf
+C:\Users\G201\Downloads\글꼴\JalnanGothic\.DS_Store
+C:\Users\G201\Downloads\글꼴\JalnanGothic\JalnanGothic.otf
+C:\Users\G201\Downloads\글꼴\JalnanGothic\JalnanGothicTTF.ttf
+C:\Users\G201\Downloads\글꼴\maruburi\OTF\MaruBuri-Bold.otf
+C:\Users\G201\Downloads\글꼴\maruburi\OTF\MaruBuri-ExtraLight.otf
+C:\Users\G201\Downloads\글꼴\maruburi\OTF\MaruBuri-Light.otf
+C:\Users\G201\Downloads\글꼴\maruburi\OTF\MaruBuri-Regular.otf
+C:\Users\G201\Downloads\글꼴\maruburi\OTF\MaruBuri-SemiBold.otf
+C:\Users\G201\Downloads\글꼴\maruburi\TTF\MaruBuri-Bold.ttf
+C:\Users\G201\Downloads\글꼴\maruburi\TTF\MaruBuri-ExtraLight.ttf
+C:\Users\G201\Downloads\글꼴\maruburi\TTF\MaruBuri-Light.ttf
+C:\Users\G201\Downloads\글꼴\maruburi\TTF\MaruBuri-Regular.ttf
+C:\Users\G201\Downloads\글꼴\maruburi\TTF\MaruBuri-SemiBold.ttf
+C:\Users\G201\Downloads\글꼴\maruburi.zip
+C:\Users\G201\Downloads\글꼴\nDlVcfwW7fVXLTZeKX4WdTVY1Yk.zip
+C:\Users\G201\Downloads\글꼴\Noto_Sans_KR\NotoSansKR-VariableFont_wght.ttf
+C:\Users\G201\Downloads\글꼴\Noto_Sans_KR\OFL.txt
+C:\Users\G201\Downloads\글꼴\Noto_Sans_KR\README.txt
+C:\Users\G201\Downloads\글꼴\Noto_Sans_KR\static\NotoSansKR-Black.ttf
+C:\Users\G201\Downloads\글꼴\Noto_Sans_KR\static\NotoSansKR-Bold.ttf
+C:\Users\G201\Downloads\글꼴\Noto_Sans_KR\static\NotoSansKR-ExtraBold.ttf
+C:\Users\G201\Downloads\글꼴\Noto_Sans_KR\static\NotoSansKR-ExtraLight.ttf
+C:\Users\G201\Downloads\글꼴\Noto_Sans_KR\static\NotoSansKR-Light.ttf
+C:\Users\G201\Downloads\글꼴\Noto_Sans_KR\static\NotoSansKR-Medium.ttf
+C:\Users\G201\Downloads\글꼴\Noto_Sans_KR\static\NotoSansKR-Regular.ttf
+C:\Users\G201\Downloads\글꼴\Noto_Sans_KR\static\NotoSansKR-SemiBold.ttf
+C:\Users\G201\Downloads\글꼴\Noto_Sans_KR\static\NotoSansKR-Thin.ttf
+C:\Users\G201\Downloads\글꼴\Noto_Sans_KR.zip
+C:\Users\G201\Downloads\글꼴\Pretendard-1.3.9\LICENSE.txt
+C:\Users\G201\Downloads\글꼴\Pretendard-1.3.9\public\static\alternative\Pretendard-Black.ttf
+C:\Users\G201\Downloads\글꼴\Pretendard-1.3.9\public\static\alternative\Pretendard-Bold.ttf
+C:\Users\G201\Downloads\글꼴\Pretendard-1.3.9\public\static\alternative\Pretendard-ExtraBold.ttf
+C:\Users\G201\Downloads\글꼴\Pretendard-1.3.9\public\static\alternative\Pretendard-ExtraLight.ttf
+C:\Users\G201\Downloads\글꼴\Pretendard-1.3.9\public\static\alternative\Pretendard-Light.ttf
+C:\Users\G201\Downloads\글꼴\Pretendard-1.3.9\public\static\alternative\Pretendard-Medium.ttf
+C:\Users\G201\Downloads\글꼴\Pretendard-1.3.9\public\static\alternative\Pretendard-Regular.ttf
+C:\Users\G201\Downloads\글꼴\Pretendard-1.3.9\public\static\alternative\Pretendard-SemiBold.ttf
+C:\Users\G201\Downloads\글꼴\Pretendard-1.3.9\public\static\alternative\Pretendard-Thin.ttf
+C:\Users\G201\Downloads\글꼴\Pretendard-1.3.9\public\static\Pretendard-Black.otf
+C:\Users\G201\Downloads\글꼴\Pretendard-1.3.9\public\static\Pretendard-Bold.otf
+C:\Users\G201\Downloads\글꼴\Pretendard-1.3.9\public\static\Pretendard-ExtraBold.otf
+C:\Users\G201\Downloads\글꼴\Pretendard-1.3.9\public\static\Pretendard-ExtraLight.otf
+C:\Users\G201\Downloads\글꼴\Pretendard-1.3.9\public\static\Pretendard-Light.otf
+C:\Users\G201\Downloads\글꼴\Pretendard-1.3.9\public\static\Pretendard-Medium.otf
+C:\Users\G201\Downloads\글꼴\Pretendard-1.3.9\public\static\Pretendard-Regular.otf
+C:\Users\G201\Downloads\글꼴\Pretendard-1.3.9\public\static\Pretendard-SemiBold.otf
+C:\Users\G201\Downloads\글꼴\Pretendard-1.3.9\public\static\Pretendard-Thin.otf
+C:\Users\G201\Downloads\글꼴\Pretendard-1.3.9\public\variable\PretendardVariable.ttf
+C:\Users\G201\Downloads\글꼴\Pretendard-1.3.9\web\static\pretendard-subset.css
+C:\Users\G201\Downloads\글꼴\Pretendard-1.3.9\web\static\pretendard.css
+C:\Users\G201\Downloads\글꼴\Pretendard-1.3.9\web\static\woff\Pretendard-Black.woff
+C:\Users\G201\Downloads\글꼴\Pretendard-1.3.9\web\static\woff\Pretendard-Bold.woff
+C:\Users\G201\Downloads\글꼴\Pretendard-1.3.9\web\static\woff\Pretendard-ExtraBold.woff
+C:\Users\G201\Downloads\글꼴\Pretendard-1.3.9\web\static\woff\Pretendard-ExtraLight.woff
+C:\Users\G201\Downloads\글꼴\Pretendard-1.3.9\web\static\woff\Pretendard-Light.woff
+C:\Users\G201\Downloads\글꼴\Pretendard-1.3.9\web\static\woff\Pretendard-Medium.woff
+C:\Users\G201\Downloads\글꼴\Pretendard-1.3.9\web\static\woff\Pretendard-Regular.woff
+C:\Users\G201\Downloads\글꼴\Pretendard-1.3.9\web\static\woff\Pretendard-SemiBold.woff
+C:\Users\G201\Downloads\글꼴\Pretendard-1.3.9\web\static\woff\Pretendard-Thin.woff
+C:\Users\G201\Downloads\글꼴\Pretendard-1.3.9\web\static\woff-subset\Pretendard-Black.subset.woff
+C:\Users\G201\Downloads\글꼴\Pretendard-1.3.9\web\static\woff-subset\Pretendard-Bold.subset.woff
+C:\Users\G201\Downloads\글꼴\Pretendard-1.3.9\web\static\woff-subset\Pretendard-ExtraBold.subset.woff
+C:\Users\G201\Downloads\글꼴\Pretendard-1.3.9\web\static\woff-subset\Pretendard-ExtraLight.subset.woff
+C:\Users\G201\Downloads\글꼴\Pretendard-1.3.9\web\static\woff-subset\Pretendard-Light.subset.woff
+C:\Users\G201\Downloads\글꼴\Pretendard-1.3.9\web\static\woff-subset\Pretendard-Medium.subset.woff
+C:\Users\G201\Downloads\글꼴\Pretendard-1.3.9\web\static\woff-subset\Pretendard-Regular.subset.woff
+C:\Users\G201\Downloads\글꼴\Pretendard-1.3.9\web\static\woff-subset\Pretendard-SemiBold.subset.woff
+C:\Users\G201\Downloads\글꼴\Pretendard-1.3.9\web\static\woff-subset\Pretendard-Thin.subset.woff
+C:\Users\G201\Downloads\글꼴\Pretendard-1.3.9\web\static\woff2\Pretendard-Black.woff2
+C:\Users\G201\Downloads\글꼴\Pretendard-1.3.9\web\static\woff2\Pretendard-Bold.woff2
+C:\Users\G201\Downloads\글꼴\Pretendard-1.3.9\web\static\woff2\Pretendard-ExtraBold.woff2
+C:\Users\G201\Downloads\글꼴\Pretendard-1.3.9\web\static\woff2\Pretendard-ExtraLight.woff2
+C:\Users\G201\Downloads\글꼴\Pretendard-1.3.9\web\static\woff2\Pretendard-Light.woff2
+C:\Users\G201\Downloads\글꼴\Pretendard-1.3.9\web\static\woff2\Pretendard-Medium.woff2
+C:\Users\G201\Downloads\글꼴\Pretendard-1.3.9\web\static\woff2\Pretendard-Regular.woff2
+C:\Users\G201\Downloads\글꼴\Pretendard-1.3.9\web\static\woff2\Pretendard-SemiBold.woff2
+C:\Users\G201\Downloads\글꼴\Pretendard-1.3.9\web\static\woff2\Pretendard-Thin.woff2
+C:\Users\G201\Downloads\글꼴\Pretendard-1.3.9\web\static\woff2-subset\Pretendard-Black.subset.woff2
+C:\Users\G201\Downloads\글꼴\Pretendard-1.3.9\web\static\woff2-subset\Pretendard-Bold.subset.woff2
+C:\Users\G201\Downloads\글꼴\Pretendard-1.3.9\web\static\woff2-subset\Pretendard-ExtraBold.subset.woff2
+C:\Users\G201\Downloads\글꼴\Pretendard-1.3.9\web\static\woff2-subset\Pretendard-ExtraLight.subset.woff2
+C:\Users\G201\Downloads\글꼴\Pretendard-1.3.9\web\static\woff2-subset\Pretendard-Light.subset.woff2
+C:\Users\G201\Downloads\글꼴\Pretendard-1.3.9\web\static\woff2-subset\Pretendard-Medium.subset.woff2
+C:\Users\G201\Downloads\글꼴\Pretendard-1.3.9\web\static\woff2-subset\Pretendard-Regular.subset.woff2
+C:\Users\G201\Downloads\글꼴\Pretendard-1.3.9\web\static\woff2-subset\Pretendard-SemiBold.subset.woff2
+C:\Users\G201\Downloads\글꼴\Pretendard-1.3.9\web\static\woff2-subset\Pretendard-Thin.subset.woff2
+C:\Users\G201\Downloads\글꼴\Pretendard-1.3.9\web\variable\pretendardvariable.css
+C:\Users\G201\Downloads\글꼴\Pretendard-1.3.9\web\variable\woff2\PretendardVariable.woff2
+C:\Users\G201\Downloads\글꼴\Pretendard-1.3.9.zip
+C:\Users\G201\Downloads\글꼴\S-Core_Dream_OTF\SCDream1.otf
+C:\Users\G201\Downloads\글꼴\S-Core_Dream_OTF\SCDream2.otf
+C:\Users\G201\Downloads\글꼴\S-Core_Dream_OTF\SCDream3.otf
+C:\Users\G201\Downloads\글꼴\S-Core_Dream_OTF\SCDream4.otf
+C:\Users\G201\Downloads\글꼴\S-Core_Dream_OTF\SCDream5.otf
+C:\Users\G201\Downloads\글꼴\S-Core_Dream_OTF\SCDream6.otf
+C:\Users\G201\Downloads\글꼴\S-Core_Dream_OTF\SCDream7.otf
+C:\Users\G201\Downloads\글꼴\S-Core_Dream_OTF\SCDream8.otf
+C:\Users\G201\Downloads\글꼴\S-Core_Dream_OTF\SCDream9.otf
+C:\Users\G201\Downloads\글꼴\S-Core_Dream_OTF\에스코어 드림_라이선스.png
+C:\Users\G201\Downloads\글꼴\S-Core_Dream_OTF.zip
+C:\Users\G201\Downloads\글꼴\SB_Window_Font\SB 어그로 B.ttf
+C:\Users\G201\Downloads\글꼴\SB_Window_Font\SB 어그로 L.ttf
+C:\Users\G201\Downloads\글꼴\SB_Window_Font\SB 어그로 M.ttf
+C:\Users\G201\Downloads\글꼴\SB_Window_Font.zip
+C:\Users\G201\Downloads\글꼴\SpoqaHanSansNeo_OTF_original\LICENSE
+C:\Users\G201\Downloads\글꼴\SpoqaHanSansNeo_OTF_original\SpoqaHanSansNeo-Bold.otf
+C:\Users\G201\Downloads\글꼴\SpoqaHanSansNeo_OTF_original\SpoqaHanSansNeo-Light.otf
+C:\Users\G201\Downloads\글꼴\SpoqaHanSansNeo_OTF_original\SpoqaHanSansNeo-Medium.otf
+C:\Users\G201\Downloads\글꼴\SpoqaHanSansNeo_OTF_original\SpoqaHanSansNeo-Regular.otf
+C:\Users\G201\Downloads\글꼴\SpoqaHanSansNeo_OTF_original\SpoqaHanSansNeo-Thin.otf
+C:\Users\G201\Downloads\글꼴\SpoqaHanSansNeo_OTF_original.zip
+C:\Users\G201\Downloads\글꼴\uK4mTd9JFejCoAXNZyXHV6glsI.zip
+C:\Users\G201\Downloads\기상청5_동네예보 통보문 조회서비스_오픈API활용가이드.zip
+C:\Users\G201\Downloads\나지금급해.png
+C:\Users\G201\Downloads\모델-removebg-preview.png
+C:\Users\G201\Downloads\문제_소스[0]_W231228001.zip
+C:\Users\G201\Downloads\사진_남자2-removebg-preview.png
+C:\Users\G201\Downloads\상세페이지_가구-002.jpg
+C:\Users\G201\Downloads\상세페이지_가구-003.jpg
+C:\Users\G201\Downloads\성공하쎄요.zip
+C:\Users\G201\Downloads\엑셀보다쉬운SQL.pdf
+C:\Users\G201\Downloads\웹개발종합반 (1).pdf
+C:\Users\G201\Downloads\웹개발종합반.pdf
+C:\Users\G201\Downloads\이일권-평가.jpg
+C:\Users\G201\Downloads\최현아1차수정.hwp
+C:\Users\G201\Downloads\컴활2급 실기 예제\1.기본작업\1.자료입력.xlsx
+C:\Users\G201\Downloads\컴활2급 실기 예제\1.기본작업\2.셀서식.xlsx
+C:\Users\G201\Downloads\컴활2급 실기 예제\1.기본작업\3.조건부서식.xlsx
+C:\Users\G201\Downloads\컴활2급 실기 예제\1.기본작업\4.자동필터.xlsx
+C:\Users\G201\Downloads\컴활2급 실기 예제\1.기본작업\5.고급필터.xlsx
+C:\Users\G201\Downloads\컴활2급 실기 예제\1.기본작업\6.텍스트나누기.xlsx
+C:\Users\G201\Downloads\컴활2급 실기 예제\1.기본작업\7.데이터가져오기.xlsx
+C:\Users\G201\Downloads\컴활2급 실기 예제\1.기본작업\8.그림복사.xlsx
+C:\Users\G201\Downloads\컴활2급 실기 예제\1.기본작업\마라톤결과.txt
+C:\Users\G201\Downloads\컴활2급 실기 예제\1.기본작업\수시모집현황.txt
+C:\Users\G201\Downloads\컴활2급 실기 예제\1.기본작업\채용정보현황.txt
+C:\Users\G201\Downloads\컴활2급 실기 예제\10.무료동영상강의\유튜브 URL.BAK
+C:\Users\G201\Downloads\컴활2급 실기 예제\10.무료동영상강의\유튜브 URL.hwp
+C:\Users\G201\Downloads\컴활2급 실기 예제\11.문제및정답파일(강사용)\1.기본작업\1.자료입력-.xlsx
+C:\Users\G201\Downloads\컴활2급 실기 예제\11.문제및정답파일(강사용)\1.기본작업\2.셀서식.xlsx
+C:\Users\G201\Downloads\컴활2급 실기 예제\11.문제및정답파일(강사용)\1.기본작업\3.조건부서식.xlsx
+C:\Users\G201\Downloads\컴활2급 실기 예제\11.문제및정답파일(강사용)\1.기본작업\4.자동필터.xlsx
+C:\Users\G201\Downloads\컴활2급 실기 예제\11.문제및정답파일(강사용)\1.기본작업\5.고급필터.xlsx
+C:\Users\G201\Downloads\컴활2급 실기 예제\11.문제및정답파일(강사용)\1.기본작업\6.텍스트나누기.xlsx
+C:\Users\G201\Downloads\컴활2급 실기 예제\11.문제및정답파일(강사용)\1.기본작업\7.데이터가져오기.xlsx
+C:\Users\G201\Downloads\컴활2급 실기 예제\11.문제및정답파일(강사용)\1.기본작업\8.그림복사.xlsx
+C:\Users\G201\Downloads\컴활2급 실기 예제\11.문제및정답파일(강사용)\1.기본작업\마라톤결과.txt
+C:\Users\G201\Downloads\컴활2급 실기 예제\11.문제및정답파일(강사용)\1.기본작업\수시모집현황.txt
+C:\Users\G201\Downloads\컴활2급 실기 예제\11.문제및정답파일(강사용)\1.기본작업\채용정보현황.txt
+C:\Users\G201\Downloads\컴활2급 실기 예제\11.문제및정답파일(강사용)\2.계산작업\1.수식.xlsx
+C:\Users\G201\Downloads\컴활2급 실기 예제\11.문제및정답파일(강사용)\2.계산작업\2.수학삼각함수.xlsx
+C:\Users\G201\Downloads\컴활2급 실기 예제\11.문제및정답파일(강사용)\2.계산작업\3.통계함수.xlsx
+C:\Users\G201\Downloads\컴활2급 실기 예제\11.문제및정답파일(강사용)\2.계산작업\4.텍스트함수.xlsx
+C:\Users\G201\Downloads\컴활2급 실기 예제\11.문제및정답파일(강사용)\2.계산작업\5.날짜시간함수.xlsx
+C:\Users\G201\Downloads\컴활2급 실기 예제\11.문제및정답파일(강사용)\2.계산작업\6.데이터베이스함수.xlsx
+C:\Users\G201\Downloads\컴활2급 실기 예제\11.문제및정답파일(강사용)\2.계산작업\7.논리함수.xlsx
+C:\Users\G201\Downloads\컴활2급 실기 예제\11.문제및정답파일(강사용)\2.계산작업\8.찾기참조함수.xlsx
+C:\Users\G201\Downloads\컴활2급 실기 예제\11.문제및정답파일(강사용)\3.분석작업\1.정렬.xlsx
+C:\Users\G201\Downloads\컴활2급 실기 예제\11.문제및정답파일(강사용)\3.분석작업\2.부분합.xlsx
+C:\Users\G201\Downloads\컴활2급 실기 예제\11.문제및정답파일(강사용)\3.분석작업\3.피벗테이블.xlsx
+C:\Users\G201\Downloads\컴활2급 실기 예제\11.문제및정답파일(강사용)\3.분석작업\4.목표값찾기.xlsx
+C:\Users\G201\Downloads\컴활2급 실기 예제\11.문제및정답파일(강사용)\3.분석작업\5.시나리오.xlsx
+C:\Users\G201\Downloads\컴활2급 실기 예제\11.문제및정답파일(강사용)\3.분석작업\6.데이터표.xlsx
+C:\Users\G201\Downloads\컴활2급 실기 예제\11.문제및정답파일(강사용)\3.분석작업\7.통합.xlsx
+C:\Users\G201\Downloads\컴활2급 실기 예제\11.문제및정답파일(강사용)\4.기타작업\1.매크로.xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\11.문제및정답파일(강사용)\4.기타작업\2.차트.xlsx
+C:\Users\G201\Downloads\컴활2급 실기 예제\11.문제및정답파일(강사용)\5.모의고사\1.기출유형모의고사(11~15회)_문제.pdf
+C:\Users\G201\Downloads\컴활2급 실기 예제\11.문제및정답파일(강사용)\5.모의고사\1기출유형모의고사11-15회_정답 및 해설.pdf
+C:\Users\G201\Downloads\컴활2급 실기 예제\11.문제및정답파일(강사용)\5.모의고사\기출유형모의고사1(문제).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\11.문제및정답파일(강사용)\5.모의고사\기출유형모의고사1(정답).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\11.문제및정답파일(강사용)\5.모의고사\기출유형모의고사10(문제).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\11.문제및정답파일(강사용)\5.모의고사\기출유형모의고사10(정답).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\11.문제및정답파일(강사용)\5.모의고사\기출유형모의고사11(문제).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\11.문제및정답파일(강사용)\5.모의고사\기출유형모의고사11(정답).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\11.문제및정답파일(강사용)\5.모의고사\기출유형모의고사12(문제).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\11.문제및정답파일(강사용)\5.모의고사\기출유형모의고사12(정답).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\11.문제및정답파일(강사용)\5.모의고사\기출유형모의고사13(문제).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\11.문제및정답파일(강사용)\5.모의고사\기출유형모의고사13(정답).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\11.문제및정답파일(강사용)\5.모의고사\기출유형모의고사14(문제).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\11.문제및정답파일(강사용)\5.모의고사\기출유형모의고사14(정답).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\11.문제및정답파일(강사용)\5.모의고사\기출유형모의고사15(문제).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\11.문제및정답파일(강사용)\5.모의고사\기출유형모의고사15(정답).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\11.문제및정답파일(강사용)\5.모의고사\기출유형모의고사2(문제).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\11.문제및정답파일(강사용)\5.모의고사\기출유형모의고사2(정답).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\11.문제및정답파일(강사용)\5.모의고사\기출유형모의고사3(문제).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\11.문제및정답파일(강사용)\5.모의고사\기출유형모의고사3(정답).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\11.문제및정답파일(강사용)\5.모의고사\기출유형모의고사4(문제).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\11.문제및정답파일(강사용)\5.모의고사\기출유형모의고사4(정답).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\11.문제및정답파일(강사용)\5.모의고사\기출유형모의고사5(문제).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\11.문제및정답파일(강사용)\5.모의고사\기출유형모의고사5(정답).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\11.문제및정답파일(강사용)\5.모의고사\기출유형모의고사6(문제).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\11.문제및정답파일(강사용)\5.모의고사\기출유형모의고사6(정답).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\11.문제및정답파일(강사용)\5.모의고사\기출유형모의고사7(문제).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\11.문제및정답파일(강사용)\5.모의고사\기출유형모의고사7(정답).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\11.문제및정답파일(강사용)\5.모의고사\기출유형모의고사8(문제).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\11.문제및정답파일(강사용)\5.모의고사\기출유형모의고사8(정답).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\11.문제및정답파일(강사용)\5.모의고사\기출유형모의고사9(문제).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\11.문제및정답파일(강사용)\5.모의고사\기출유형모의고사9(정답).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\11.문제및정답파일(강사용)\5.모의고사\예약현황.txt
+C:\Users\G201\Downloads\컴활2급 실기 예제\11.문제및정답파일(강사용)\5.모의고사\판매현황.txt
+C:\Users\G201\Downloads\컴활2급 실기 예제\11.문제및정답파일(강사용)\6.기출문제\기출문제10회(문제).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\11.문제및정답파일(강사용)\6.기출문제\기출문제10회(정답).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\11.문제및정답파일(강사용)\6.기출문제\기출문제1회(문제).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\11.문제및정답파일(강사용)\6.기출문제\기출문제1회(정답).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\11.문제및정답파일(강사용)\6.기출문제\기출문제2회(문제).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\11.문제및정답파일(강사용)\6.기출문제\기출문제2회(정답).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\11.문제및정답파일(강사용)\6.기출문제\기출문제3회(문제).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\11.문제및정답파일(강사용)\6.기출문제\기출문제3회(정답).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\11.문제및정답파일(강사용)\6.기출문제\기출문제4회(문제).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\11.문제및정답파일(강사용)\6.기출문제\기출문제4회(정답).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\11.문제및정답파일(강사용)\6.기출문제\기출문제5회(문제).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\11.문제및정답파일(강사용)\6.기출문제\기출문제5회(정답).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\11.문제및정답파일(강사용)\6.기출문제\기출문제6회(문제).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\11.문제및정답파일(강사용)\6.기출문제\기출문제6회(정답).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\11.문제및정답파일(강사용)\6.기출문제\기출문제7회(문제).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\11.문제및정답파일(강사용)\6.기출문제\기출문제7회(정답).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\11.문제및정답파일(강사용)\6.기출문제\기출문제8회(문제).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\11.문제및정답파일(강사용)\6.기출문제\기출문제8회(정답).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\11.문제및정답파일(강사용)\6.기출문제\기출문제9회(문제).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\11.문제및정답파일(강사용)\6.기출문제\기출문제9회(정답).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\11.문제및정답파일(강사용)\6.기출문제\하프마라톤결과.txt
+C:\Users\G201\Downloads\컴활2급 실기 예제\2.계산작업\1.수식.xlsx
+C:\Users\G201\Downloads\컴활2급 실기 예제\2.계산작업\2.수학삼각함수.xlsx
+C:\Users\G201\Downloads\컴활2급 실기 예제\2.계산작업\3.통계함수.xlsx
+C:\Users\G201\Downloads\컴활2급 실기 예제\2.계산작업\4.텍스트함수.xlsx
+C:\Users\G201\Downloads\컴활2급 실기 예제\2.계산작업\5.날짜시간함수.xlsx
+C:\Users\G201\Downloads\컴활2급 실기 예제\2.계산작업\6.데이터베이스함수.xlsx
+C:\Users\G201\Downloads\컴활2급 실기 예제\2.계산작업\7.논리함수.xlsx
+C:\Users\G201\Downloads\컴활2급 실기 예제\2.계산작업\8.찾기참조함수.xlsx
+C:\Users\G201\Downloads\컴활2급 실기 예제\2024컴활2급실기.exe
+C:\Users\G201\Downloads\컴활2급 실기 예제\3.분석작업\1.정렬.xlsx
+C:\Users\G201\Downloads\컴활2급 실기 예제\3.분석작업\2.부분합.xlsx
+C:\Users\G201\Downloads\컴활2급 실기 예제\3.분석작업\3.피벗테이블.xlsx
+C:\Users\G201\Downloads\컴활2급 실기 예제\3.분석작업\4.목표값찾기.xlsx
+C:\Users\G201\Downloads\컴활2급 실기 예제\3.분석작업\5.시나리오.xlsx
+C:\Users\G201\Downloads\컴활2급 실기 예제\3.분석작업\6.데이터표.xlsx
+C:\Users\G201\Downloads\컴활2급 실기 예제\3.분석작업\7.통합.xlsx
+C:\Users\G201\Downloads\컴활2급 실기 예제\4.기타작업\1.매크로.xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\4.기타작업\2.차트.xlsx
+C:\Users\G201\Downloads\컴활2급 실기 예제\5.모의고사\1.기출유형모의고사(11~15회)_문제.pdf
+C:\Users\G201\Downloads\컴활2급 실기 예제\5.모의고사\1기출유형모의고사11-15회_정답 및 해설.pdf
+C:\Users\G201\Downloads\컴활2급 실기 예제\5.모의고사\기출유형모의고사1(문제).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\5.모의고사\기출유형모의고사1(정답).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\5.모의고사\기출유형모의고사10(문제).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\5.모의고사\기출유형모의고사10(정답).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\5.모의고사\기출유형모의고사11(문제).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\5.모의고사\기출유형모의고사11(정답).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\5.모의고사\기출유형모의고사12(문제).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\5.모의고사\기출유형모의고사12(정답).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\5.모의고사\기출유형모의고사13(문제).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\5.모의고사\기출유형모의고사13(정답).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\5.모의고사\기출유형모의고사14(문제).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\5.모의고사\기출유형모의고사14(정답).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\5.모의고사\기출유형모의고사15(문제).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\5.모의고사\기출유형모의고사15(정답).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\5.모의고사\기출유형모의고사2(문제).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\5.모의고사\기출유형모의고사2(정답).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\5.모의고사\기출유형모의고사3(문제).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\5.모의고사\기출유형모의고사3(정답).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\5.모의고사\기출유형모의고사4(문제).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\5.모의고사\기출유형모의고사4(정답).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\5.모의고사\기출유형모의고사5(문제).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\5.모의고사\기출유형모의고사5(정답).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\5.모의고사\기출유형모의고사6(문제).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\5.모의고사\기출유형모의고사6(정답).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\5.모의고사\기출유형모의고사7(문제).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\5.모의고사\기출유형모의고사7(정답).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\5.모의고사\기출유형모의고사8(문제).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\5.모의고사\기출유형모의고사8(정답).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\5.모의고사\기출유형모의고사9(문제).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\5.모의고사\기출유형모의고사9(정답).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\5.모의고사\예약현황.txt
+C:\Users\G201\Downloads\컴활2급 실기 예제\5.모의고사\판매현황.txt
+C:\Users\G201\Downloads\컴활2급 실기 예제\6.기출문제\기출문제10회(문제).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\6.기출문제\기출문제10회(정답).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\6.기출문제\기출문제1회(문제).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\6.기출문제\기출문제1회(정답).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\6.기출문제\기출문제2회(문제)-.xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\6.기출문제\기출문제2회(정답).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\6.기출문제\기출문제3회(문제).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\6.기출문제\기출문제3회(정답).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\6.기출문제\기출문제4회(문제).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\6.기출문제\기출문제4회(정답).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\6.기출문제\기출문제5회(문제).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\6.기출문제\기출문제5회(정답).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\6.기출문제\기출문제6회(문제).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\6.기출문제\기출문제6회(정답).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\6.기출문제\기출문제7회(문제).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\6.기출문제\기출문제7회(정답).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\6.기출문제\기출문제8회(문제).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\6.기출문제\기출문제8회(정답).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\6.기출문제\기출문제9회(문제).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\6.기출문제\기출문제9회(정답).xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\6.기출문제\하프마라톤결과.txt
+C:\Users\G201\Downloads\컴활2급 실기 예제\7.함수집중연습\0.함수집중연습.pdf
+C:\Users\G201\Downloads\컴활2급 실기 예제\7.함수집중연습\1.수학삼각함수.xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\7.함수집중연습\2.통계함수.xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\7.함수집중연습\3.텍스트함수.xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\7.함수집중연습\4.날짜시간함수.xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\7.함수집중연습\5.데이터베이스함수.xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\7.함수집중연습\6.논리함수.xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\7.함수집중연습\7.찾기참조함수.xlsm
+C:\Users\G201\Downloads\컴활2급 실기 예제\8.함수사전\0.함수사전_컴활2급.pdf
+C:\Users\G201\Downloads\컴활2급 실기 예제\8.함수사전\01 날짜시간함수.xlsx
+C:\Users\G201\Downloads\컴활2급 실기 예제\8.함수사전\02 수학삼각함수.xlsx
+C:\Users\G201\Downloads\컴활2급 실기 예제\8.함수사전\03 통계함수.xlsx
+C:\Users\G201\Downloads\컴활2급 실기 예제\8.함수사전\04 텍스트함수.xlsx
+C:\Users\G201\Downloads\컴활2급 실기 예제\8.함수사전\05 찾기참조함수.xlsx
+C:\Users\G201\Downloads\컴활2급 실기 예제\8.함수사전\06 데이터베이스함수.xlsx
+C:\Users\G201\Downloads\컴활2급 실기 예제\8.함수사전\07 논리함수.xlsx
+C:\Users\G201\Downloads\컴활2급 실기 예제\8.함수사전\함수사전_컴활2급.hwp
+C:\Users\G201\Downloads\컴활2급 실기 예제\9.자동채점프로그램\성안당_컴활2급채점프로그램.EXE
+C:\Users\G201\Downloads\컴활2급 실기 예제\9.자동채점프로그램\웹사이트 채점 특징.hwp
+C:\Users\G201\Downloads\컴활2급 실기 예제\9.자동채점프로그램\자동채점프로그램 에러 해결 참고사항.hwp
+C:\Users\G201\Downloads\컴활2급 실기 예제.7z
+C:\Users\G201\Downloads\컴활2급 실기 예제.zip
+C:\Users\G201\Downloads\파이널 프로젝트.pdf
+C:\Users\G201\Downloads\포스터_그린플리마켓.pdf
+C:\Users\G201\Downloads\포트폴리오_예시.pptx
+C:\Users\G201\Downloads\한글네오2016.zip
